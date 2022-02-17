@@ -27,6 +27,9 @@
     <ClCompile Include="basicObjects.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="clothObject.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="globalVariables.h">
@@ -36,6 +39,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="basicObjects.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="clothObject.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

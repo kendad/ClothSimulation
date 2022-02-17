@@ -153,12 +153,14 @@
   <ItemGroup>
     <ClCompile Include="basicFunctionalities.cpp" />
     <ClCompile Include="basicObjects.cpp" />
+    <ClCompile Include="clothObject.cpp" />
     <ClCompile Include="globalVariables.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="basicFunctionalities.h" />
     <ClInclude Include="basicObjects.h" />
+    <ClInclude Include="clothObject.h" />
     <ClInclude Include="globalVariables.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

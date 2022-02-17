@@ -52,7 +52,7 @@ void Point::update() {
 		pointBody.x = (int)x;
 		pointBody.y = (int)y;
 	}
-	else {
+	/*else {
 		int tmpX;
 		int tmpY;
 		
@@ -61,7 +61,7 @@ void Point::update() {
 		SDL_GetMouseState(&tmpX, &tmpY);
 		x = tmpX;
 		y = tmpY;
-	}
+	}*/
 }
 
 void Point::render() {
